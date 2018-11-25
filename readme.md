@@ -1,4 +1,4 @@
-# PetClinic Web App
+# Pet Clinic Web App
 
 This is a sample web app I created to teach myself React/Redux.
 It runs on top of a Spring Boot REST API service. You must clone
