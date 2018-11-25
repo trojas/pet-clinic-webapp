@@ -5,7 +5,7 @@ import Scheduler from "react-big-scheduler";
 import { DragDropContext } from "react-dnd";
 import HTML5Backend from "react-dnd-html5-backend";
 
-import 'react-big-scheduler/lib/css/style.css'
+import 'react-big-scheduler/lib/css/style.css';
 
 class Schedule extends Component {
 

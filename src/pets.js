@@ -6,8 +6,7 @@ class Pets extends Component {
   }
 
   render() {
-    const petList = [];
-    this.props.pets.map(pet => petList.push(
+    const petList = this.props.pets.map(pet => (
     <tr key={pet.id}>
       <td>{pet.ownerFirstName}</td>
       <td>{pet.ownerLastName}</td>

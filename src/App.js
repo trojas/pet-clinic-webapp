@@ -5,7 +5,7 @@ import React, { Component} from "react";
 import { DragDropContext } from "react-dnd";
 import HTML5Backend from "react-dnd-html5-backend";
 
-import "./sb-admin-2.css"
+import "./sb-admin-2.css";
 
 class App extends Component{
   constructor(props) {
