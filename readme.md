@@ -3,10 +3,8 @@
 This is a sample web app I created to teach myself React/Redux.
 It runs on top of a Spring Boot REST API service. You must clone
 and run the
-[spring-webclinic-rest](https://github.com/trojas/spring-petclinic-rest)
-project for this project to work.  (Note that the version of
-**spring-webclinic-rest** this project runs on is a fork of
-[the original](https://github.com/spring-petclinic/spring-petclinic-rest))
+[pet-clinic-service](https://github.com/trojas/pet-clinic-service)
+project for this project to work.  
 
 ## Installation
 
