@@ -12,8 +12,8 @@ When you have the REST API service installed and running, you can
 install and run this web app by doing the following:
 
 ```ShellSession
-$ git clone git@github.com:trojas/petclinic-web-app.git
-$ cd petclinic-web-app/
+$ git clone git@github.com:trojas/pet-clinic-webapp.git
+$ cd pet-clinic-webapp/
 $ npm install
 $ npm start
 ```
